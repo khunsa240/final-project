@@ -5,7 +5,7 @@
 ## Description
 This repository contains supporting documentation for the IT-Services web portal developed as a final year project.
 
-The portal provides [add 1 line: e.g., "IT support ticketing and asset management for ConsulNet"].
+The portal provides IT services.
 
 ## Project Files
 - Documentation
